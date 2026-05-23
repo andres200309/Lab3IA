@@ -1,0 +1,18 @@
+# Environments
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO weights (large files)
+*.pt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output data (optional, but keeping raw CSV if desired - remove if you want to ignore CSVs too)
+# *.csv
